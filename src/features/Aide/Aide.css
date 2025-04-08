@@ -1,0 +1,23 @@
+.canvas {
+  width: 750px;
+  outline: 2px solid black;
+}
+
+.aide-container {
+  height: 100%;
+  width: 100%;
+}
+
+.left {
+  float: left;
+  width: 50%;
+  height: auto;
+  
+}
+
+.right {
+  float: right;
+  width: 50%;
+  padding-right: 50px;
+  padding-top: 50px;
+}
